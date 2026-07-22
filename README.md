@@ -1,70 +1,149 @@
-# project-react# Getting Started with Create React App
+# 🚗 HyperDrive Automotive News Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern multi-page automotive news platform built with HTML5, CSS3, and JavaScript to deliver responsive automotive news, vehicle reviews, EV coverage, motorsport updates, and industry insights.
 
-## Available Scripts
+## 🌐 Live Demo
 
-In the project directory, you can run:
+👉 https://rafiantoas.github.io/hyperdrive-automotive-news-platform/
 
-### `npm start`
+## 📖 Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+HyperDrive is a portfolio-grade frontend web application designed to simulate a professional automotive media platform.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The project demonstrates frontend development skills through a large-scale multi-page architecture featuring responsive layouts, category-based navigation, interactive UI components, and modern web design principles.
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Automotive News Portal
+- Vehicle Reviews
+- EV Coverage
+- Motorsport Updates
+- Supercar Showcase
+- Technology Articles
+- Industry Insights
+- Multi-Page Navigation
+- Responsive Design
+- Interactive UI Components
+- Search Functionality
+- Mobile-Friendly Layout
 
-### `npm run build`
+## 🛠️ Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- CSS Grid
+- CSS Flexbox
+- Responsive Web Design
+- Git & GitHub
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📂 Project Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+HyperDrive/
+│
+├── index.html
+├── news.html
+├── reviews.html
+├── ev.html
+├── motorsport.html
+├── supercars.html
+├── technology.html
+├── industry.html
+├── article.html
+├── contact.html
+│
+├── css/
+├── js/
+├── assets/
+└── README.md
+```
 
-### `npm run eject`
+## 🚀 Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/RafiantoAS/hyperdrive-automotive-news-platform.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Open:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+index.html
+```
 
-## Learn More
+using your preferred browser.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎯 Learning Objectives
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project focuses on improving:
 
-### Code Splitting
+- Frontend Development
+- Responsive Web Design
+- Multi-Page Architecture
+- UI/UX Design
+- JavaScript Interactivity
+- Project Organization
+- User Experience Design
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🚧 Challenges & Solutions
 
-### Analyzing the Bundle Size
+### UI Consistency
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Challenge**
 
-### Making a Progressive Web App
+Maintaining a consistent visual identity across multiple pages.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Solution**
 
-### Advanced Configuration
+Created reusable layouts and consistent design patterns.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Content Organization
 
-### Deployment
+**Challenge**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Managing multiple categories and automotive content.
 
-### `npm run build` fails to minify
+**Solution**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Implemented structured navigation and modular page architecture.
+
+## 🔮 Future Improvements
+
+- Dark Mode
+- Dynamic Search
+- REST API Integration
+- CMS Integration
+- User Authentication
+- Bookmark Feature
+- Comment System
+- Backend Integration
+
+## 💼 Skills Demonstrated
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- UI/UX Design
+- Frontend Architecture
+- Problem Solving
+- Git & GitHub
+
+## 📈 Portfolio Value
+
+HyperDrive demonstrates the ability to build a professional multi-page frontend application using modern web technologies while applying responsive design, clean architecture, and user-centered interface principles.
+
+This project reflects the practical skills expected from Frontend Developer Internship and Junior Frontend Developer candidates.
+
+## 👨‍💻 Author
+
+**Rafianto Adhi Sampurno**
+
+- GitHub: https://github.com/RafiantoAS
+- Portfolio: https://rafiantoas.github.io/project-react/
+
+---
+
+⭐ Feel free to explore this project and provide feedback!
