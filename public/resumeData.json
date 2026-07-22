@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Rafianto Adhi Sampurno",
+    "description": "I am a Frontend Developer",
+    "image": "profile-picture.jpg",
+    "github": "https://github.com/rafiantoas",
+    "project": "https://rafiantoas.github.io/",
+    "bio": "Frontend Developer passionate about building responsive, user-friendly, and modern web applications using HTML, CSS, JavaScript, and React.js. Currently pursuing a Double Degree in Information Systems and Accounting at BINUS University while continuously improving frontend development skills through real-world projects and continuous learning.",
+    "contactmessage": "Feel free to contact me for collaboration, internship, freelance, or frontend development opportunities.",
+    "email": "Rafianto.as@gmail.com",
+    "phone": "+62-813-8338-3211",
+    "address": {
+      "street": "",
+      "city": "Jakarta, Indonesia",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://rafiantoas.github.io/",
+    "resumedownload": "https://github.com/rafiantoas",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rafianto-adhi-sampurno/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rafianto.a.s/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rafiantoas",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "BINUS University",
+        "degree": "Double Degree - Information Systems & Accounting",
+        "graduated": "September 2023 - May 2027",
+        "description": "Learning software engineering, web development, databases, business systems, accounting, and information technology."
+      },
+      {
+        "school": "SMA 29 Jakarta",
+        "degree": "Science",
+        "graduated": "2020 - 2023",
+        "description": "Graduated from Science major."
+      }
+    ],
+    "work": [
+      {
+        "company": "Petta Coffee & Roastery",
+        "title": "UI Designer (Project-Based)",
+        "years": " September 2025 - December 2025",
+        "description": "Designed user interface layouts, dashboards, and user flows using Figma while collaborating with stakeholders to improve user experience."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "React.js",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "70%"
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HyperDrive Automotive News Platform",
+        "category": "Responsive automotive news website built using HTML, CSS, and JavaScript.",
+        "image": "01.jpg",
+        "url": "https://rafiantoas.github.io/hyperdrive-automotive-news-platform/"
+      },
+      {
+        "title": "SportsBlue Sports News Portal",
+        "category": "Responsive sports news portal featuring modern UI and dynamic content.",
+        "image": "02.jpg",
+        "url": "https://rafiantoas.github.io/sportsblue-sports-news-portal/"
+      },
+      {
+        "title": "ShopVerse Ecommerce Platform",
+        "category": "Modern ecommerce website with responsive layout and product catalog.",
+        "image": "03.jpg",
+        "url": "https://rafiantoas.github.io/shopverse-ecommerce-platform/"
+      },
+      {
+        "title": "Personal Portfolio Website",
+        "category": "Personal portfolio showcasing projects, skills, certifications, and contact information.",
+        "image": "04.jpg",
+        "url": "https://rafiantoas.github.io/RafiantoAS.github.io./"
+      }
+    ]
+  }
+}
